@@ -18,6 +18,7 @@ padding:30px;
 #main-header {
   /* Your code here! */
   color:red;
+  font-size:22;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
